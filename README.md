@@ -1,1 +1,1 @@
-# [ Implementasi Genetid Algorithm pada Proses Penjadwalan Mata Pelajaran ]
+# [ Implementasi Genetic Algorithm pada Proses Penjadwalan Mata Pelajaran ]
